@@ -1,4 +1,4 @@
-,sleep_h,active_cal,exercise_h,stand_h,basal_cal,flights,max_hr,min_o2,activity_mets,avg_rr,avg_resting_hr,steps,daylight_h
+date,sleep_h,active_cal,exercise_h,stand_h,basal_cal,flights,max_hr,min_o2,activity_mets,avg_rr,avg_resting_hr,steps,daylight_h
 2018-04-03,,,,,,,,,,,,76.0,
 2018-04-04,,,,,,4.0,,,,,,4615.0,
 2018-04-05,,,,,,,,,,,,2996.0,
